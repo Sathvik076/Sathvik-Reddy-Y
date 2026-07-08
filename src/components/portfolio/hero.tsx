@@ -106,7 +106,7 @@ export function Hero() {
             initial={{ opacity: 0, y: 12 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8, delay: 0.55, ease }}
-            className="mt-8 max-w-xl text-sm leading-relaxed text-white/90 md:text-base font-mono"
+            className="mt-8 max-w-xl text-sm leading-relaxed text-black font-semibold md:text-base font-mono"
           >
             An AI Engineer specializing in building custom LLMs, developing robust RAG pipelines,
             and designing autonomous agentic workflows to deliver production-ready intelligent
