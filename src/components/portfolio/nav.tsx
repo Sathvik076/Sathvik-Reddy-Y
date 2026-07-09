@@ -86,13 +86,13 @@ export function Nav() {
         {/* Connect Button */}
         <div className="hidden lg:flex items-center">
           <a
-            href="https://github.com/Kirankumarpetlu"
+            href="https://github.com/Sathvik076"
             target="_blank"
             rel="noopener noreferrer"
-            className="group relative overflow-hidden rounded-md border border-white/10 bg-white/[0.02] px-5 py-2 font-mono text-xs text-silver tracking-widest transition-all duration-300 hover:border-white/30 hover:bg-white/[0.05]"
+            className="group relative overflow-hidden rounded-md border border-white/10 bg-white/[0.02] px-5 py-2 font-mono text-xs text-black tracking-widest transition-all duration-300 hover:border-white/30 hover:bg-white/[0.05]"
           >
             <span className="relative z-10 flex items-center gap-2">
-              <span className="text-silver-dim font-bold">$</span> github
+              <span className="text-black font-bold">$</span> github
               <span className="cursor-blink">▮</span>
             </span>
           </a>
@@ -153,11 +153,11 @@ export function Nav() {
                 </a>
               ))}
               <a
-                href="https://github.com/Kirankumarpetlu"
+                href="https://github.com/Sathvik076"
                 target="_blank"
                 rel="noopener noreferrer"
                 onClick={() => setMobileOpen(false)}
-                className="mt-2 flex w-full justify-center rounded-md border border-white/10 bg-white/[0.02] py-3 text-center text-xs tracking-widest text-silver"
+                className="mt-2 flex w-full justify-center rounded-md border border-white/10 bg-white/[0.02] py-3 text-center text-xs tracking-widest text-black"
               >
                 $ githubâ–®
               </a>
